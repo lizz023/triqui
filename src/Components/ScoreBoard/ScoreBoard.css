@@ -1,0 +1,19 @@
+.result-board{
+    width: 320px;
+    display: grid;
+    grid-auto-flow: column;
+    margin: 10px auto;
+}
+
+.result-board div{
+    color:white;
+    text-align: center;
+    font-size: 2em;
+    padding: 5px;
+    font-weight: bold;
+    background-color:mediumorchid;
+}
+
+.result-board div:first-child{
+    background-color:darkturquoise;
+}

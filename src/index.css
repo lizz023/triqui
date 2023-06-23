@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('../img/vector-abstract-geometric-background-in-light-colors.jpg');
+  background-size: cover;
 }
 
 code {
