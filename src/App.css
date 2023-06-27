@@ -15,7 +15,13 @@
   font-weight: 400;
   margin: 0 auto;
   padding: 15px;
-  width: 700px;
+}
+
+@media screen and (min-width:786px) {
+  .description{
+    width: 700px;
+  }
+  
 }
 
 .title{
